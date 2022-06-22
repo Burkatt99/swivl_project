@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/swivl_project/static/css/main.827893e8.css",
-    "main.js": "/swivl_project/static/js/main.60a5c992.js",
-    "index.html": "/swivl_project/index.html",
-    "main.827893e8.css.map": "/swivl_project/static/css/main.827893e8.css.map",
-    "main.60a5c992.js.map": "/swivl_project/static/js/main.60a5c992.js.map"
+    "main.css": "/static/css/main.827893e8.css",
+    "main.js": "/static/js/main.c16a1edd.js",
+    "index.html": "/index.html",
+    "main.827893e8.css.map": "/static/css/main.827893e8.css.map",
+    "main.c16a1edd.js.map": "/static/js/main.c16a1edd.js.map"
   },
   "entrypoints": [
     "static/css/main.827893e8.css",
-    "static/js/main.60a5c992.js"
+    "static/js/main.c16a1edd.js"
   ]
 }
