@@ -7,10 +7,9 @@ import { setUsers } from "../../redux/actions/userActions";
 
 const UsersList = () => {
     const dispatch = useDispatch();
-
     const fetchUsers = async () => {
         const result = await axios
-            .get("https://api.github.com/users")
+            .get("https://api.github.com/users?per_page=100")
             .catch((err) => {
                 console.log("Err:", err);
             });
